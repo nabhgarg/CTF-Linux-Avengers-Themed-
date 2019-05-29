@@ -8,10 +8,12 @@ Each team is allowed only one answer.
 
 | Avenger | Team Name |
 | ------- | --------- |
+| Marvel  | Its-sarthak|
 | Rogers  | vishwas121|
 | SpiderMan| ankuryd  |
 | Kang    | sartkap   |
 | IronMan | dryairship|
 | NickFury| Ritiks007 |
+| Black Widow| Sudhanshu127|
 | AncientOne| Nabh	  |
 | Groot   | Apoorv    |
